@@ -27,6 +27,7 @@ Select:
 When you select, it'll open that widget.
 Now, lets go to 2.
 There isn't really anything to explain here... it just exits.
+
 Finally, lets go to 3.
 When you get into the menu, it will delete folders/files in the widgets folder that you specified.
 If the file/folder doesn't exist, it will give you an error and restart the program.

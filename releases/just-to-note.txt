@@ -1,0 +1,1 @@
+This is the Releases folder, where all the releases are kept.

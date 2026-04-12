@@ -15,10 +15,15 @@ Select an option:
 Select your option.
 So if you start with 1, it'll say an error, but it'll work anyways, it will show you a list, like this:
 1 clock.bat
+
 2 ...
+
 3 ...
+
 ect.
+
 Select:
+
 When you select, it'll open that widget.
 Now, lets go to 2.
 There isn't really anything to explain here... it just exits.

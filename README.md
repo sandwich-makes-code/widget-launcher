@@ -8,5 +8,20 @@ Widget To Desktop
 1. ░░░░Start░░░
 2. ░░░░Exit ░░░
 Delete Widget (3)
-Custom widgetsput in the 'custom_widgets' folder will be automatically be added to the widgets folder.
+Custom widgets put in the 'custom_widgets' folder will be automatically be added to the widgets folder.
 Select an option:
+Select your option.
+So if you start with 1, it'll say an error, but it'll work anyways, it will show you a list, like this:
+1 clock.bat
+2 ...
+3 ...
+ect.
+Select:
+When you select, it'll open that widget.
+Now, lets go to 2.
+There isn't really anything to explain here... it just exits.
+Finally, lets go to 3.
+When you get into the menu, it will delete folders/files in the widgets folder that you specified.
+If the file/folder doesn't exist, it will give you an error and restart the program.
+That is it - Wait! I didn't cover how you make the widgets, so, you get a file, (.bat is recommended) write code in it, then put it in the custom_widgets folder, now, of course, if you don't know how to code .bat files, then you can learn from somewhere, I guess.
+That's it!

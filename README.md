@@ -7,6 +7,7 @@ When you double-click the .bat, or .ink (!.ink isn't tested so it may not work!)
 Widget To Desktop
 1. ░░░░Start░░░
 2. ░░░░Exit ░░░
+
 Delete Widget (3)
 Custom widgets put in the 'custom_widgets' folder will be automatically be added to the widgets folder.
 Select an option:

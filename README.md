@@ -9,6 +9,7 @@ Widget To Desktop
 2. ░░░░Exit ░░░
 
 Delete Widget (3)
+
 Custom widgets put in the 'custom_widgets' folder will be automatically be added to the widgets folder.
 Select an option:
 Select your option.

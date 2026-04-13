@@ -40,6 +40,6 @@ The Major Drop: I have added lots of pre-made widgets and they do stuff. v2.0
 
 Bug Fix: i fixed some problems with folders trying to open as widgets. So i've deleted v2.0 as it has this bug. v2.1
 
-# -------------------------------------------|Widget Launcher|-------------------------------------------
+# ---|Widget Launcher|---
 
 

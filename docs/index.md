@@ -28,7 +28,7 @@
 
 Welcome to the official home of the Widget Launcher project.
 
-NEWEST VERSION: <a href="https://github.com/sandwich-makes-code/widget-launcher/tree/main/releases/widget_launcher-v2.1-.zip" class="btn">v2.1</a>
+NEWEST VERSION: <a href="https://github.com/sandwich-makes-code/widget-launcher/tree/main/releases/widget_launcher-v2.2-.zip" class="btn">v2.2</a>
 
 Download from here: [Download Releases](releases.md)
 

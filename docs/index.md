@@ -18,6 +18,13 @@
 
 #           Widget Launcher
 
+<img src="docs/icon.ico" style="
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0005;
+">
+
+
 Welcome to the official home of the Widget Launcher project.
 
 Download from here: [Download Releases](releases.md)

@@ -15,7 +15,7 @@ Delete Widget (3)
 Custom widgets put in the 'custom_widgets' folder will be automatically be added to the widgets folder.
 Select an option:
 Select your option.
-So if you start with 1, it'll say an error, but it'll work anyways, it will show you a list, like this:
+it will show you a list, like this:
 1 clock.bat
 
 2 ...

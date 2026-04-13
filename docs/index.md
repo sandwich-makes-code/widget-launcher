@@ -1,3 +1,19 @@
+<style>
+  /* Light mode */
+  body {
+    background: #ffffff;
+    color: #000000;
+    font-family: "Segoe UI", sans-serif;
+  }
+
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background: #0d1117;
+      color: #c9d1d9;
+    }
+  }
+</style>
 
 
 #           Widget Launcher

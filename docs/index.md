@@ -16,7 +16,17 @@
 </style>
 
 
-#           Widget Launcher
+<div style="
+  background:#161b22;
+  padding:20px;
+  border-radius:10px;
+  color:#c9d1d9;
+  border:1px solid #30363d;
+  max-width:700px;
+">
+   Widget Launcher
+</div>
+
 
 <img src="icon-shortcut.ico" style="
   width: 600px;

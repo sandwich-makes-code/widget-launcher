@@ -36,4 +36,6 @@ The Major Drop: I have added lots of pre-made widgets and they do stuff. v2.0
 
 Spelling issue fix v1.1
 
+Bug Fix: i fixed some problems with folders trying to open as widgets. v2.1
+
 

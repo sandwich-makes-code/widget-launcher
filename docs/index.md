@@ -18,7 +18,7 @@
 
 #           Widget Launcher
 
-<img src="docs/icon-shortcut.ico" style="
+<img src="icon-shortcut.ico" style="
   width: 600px;
   border-radius: 10px;
   box-shadow: 0 0 20px #0005;

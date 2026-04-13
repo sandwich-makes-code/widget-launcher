@@ -28,7 +28,7 @@
 
 Welcome to the official home of the Widget Launcher project.
 
-NEWEST VERSION: <a href="https://github.com/sandwich-makes-code/widget-launcher/tree/main/releases/widget_launcher-v2.2-.zip" class="btn">v2.2</a>
+NEWEST VERSION: <a href="https://github.com/sandwich-makes-code/widget-launcher/tree/main/releases/widget_launcher-v2.3-.zip" class="btn">v2.3</a>
 
 Download from here: [Download Releases](releases.md)
 
@@ -41,6 +41,8 @@ The Major Drop: I have added lots of pre-made widgets and they do stuff. v2.0
 Bug Fix: I fixed some problems with folders trying to open as widgets. So i've deleted v2.0 as it has this bug. v2.1
 
 Hide Folders: Now any folder in the widgets/ folder of the app will be hidden. v2.2
+
+Removing specific files (IN OPTION 3) would remove their dependecies, the only ones that contain dependecies have _ in between the text of the widget file names. v2.3
 
 # Made with Python
 

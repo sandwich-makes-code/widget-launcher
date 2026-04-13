@@ -31,5 +31,5 @@ There isn't really anything to explain here... it just exits.
 Finally, lets go to 3.
 When you get into the menu, it will delete folders/files in the widgets folder that you specified.
 If the file/folder doesn't exist, it will give you an error and restart the program.
-That is it - Wait! I didn't cover how you make the widgets, so, you get a file, (.bat is recommended) write code in it, then put it in the custom_widgets folder, now, of course, if you don't know how to code .bat files, then you can learn from somewhere, I guess.
+That is it - Wait! I didn't cover how you make the widgets, so, you get a file, (.cmd is recommended) write code in it, then put it in the custom_widgets folder, now, of course, if you don't know how to code .cmd or other files, then you can learn from somewhere, I guess.
 That's it!

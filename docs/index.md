@@ -28,6 +28,8 @@
 
 Welcome to the official home of the Widget Launcher project.
 
+NEWEST VERSION:
+
 Download from here: [Download Releases](releases.md)
 
 UPDATE REPORT 4/12/2026 to 4/13/2026:

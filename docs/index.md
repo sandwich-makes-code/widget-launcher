@@ -46,6 +46,8 @@ Removing specific files (IN OPTION 3) would remove their dependecies, the only o
 
 Added so widgets put in the custom_widgets folder, when they get put in the widgets folder, they auto-delete from the widgets folder and back into the custom_widgets folder. v2.7
 
+When you launch the app from the .bat file (Widget Launcher.bat), it will say LOADING... for exactly 1.9 seconds. v2.7.1
+
 # Made with Python
 
 

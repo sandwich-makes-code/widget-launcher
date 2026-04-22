@@ -5,7 +5,7 @@ Made with Python.
 
 Okay, you've read this bit ↑, that is mostly all, but you would probably say "How would i make my own widgets?" or "What would i do?" well, we have answers.
 Before doing any of this, you may or may not have installed Python, if you haven't, download it from here. "https://www.python.org/getit/windows/" And how to install the Widget Launcher is simple! There are 2 methods.
-1: Access the releases folder and you'll find multiple releases. Download the latest one by clicking on the .zip file, and press Download RAW, or that little download icon on the right. so now just by installing these, you're set!
+1: Access the releases folder and you'll find multiple releases. Download the latest one by clicking on the .zip file. So now just by installing these, you're set!
 2: Go to the Releases tab and select the latest release, then press the release you want to download. So by these steps, you're set!
 
 When you double-click the .bat, or .ink (!.ink isn't tested so it may not work!), you'll end up on this screen:
